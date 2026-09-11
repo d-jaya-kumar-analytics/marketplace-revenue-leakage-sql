@@ -86,7 +86,11 @@ This project helped me practice:
 
 ## Files in This Repository
 
-I will add the SQL queries, project presentation and supporting visuals used in this project.
+## Project File
+
+📄 [View Project Presentation](./Marketplace%20Revenue%20Leakage%20SQL%20Project.pdf)
+
+For now, I have added the project presentation. SQL queries and supporting files may be added later.
 
 ## About Me
 
